@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Federico! </h2>
 <p>Software Developer 🎯. </p>
 <p>
-    <a href="https://www.linkedin.com/in/federico-emanuel-gomez-0119891b5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
+    <a href="https://www.linkedin.com/in/federico-emanuel-gomez-0119891b5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/federico-emanuel-gomez-0119891b5/" alt="LinkedIn Badge"></a> 
     <a href="https://www.instagram.com/feedegomeez/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/feedegomeez/" alt="Instagram Badge"></a>
 </p>
 
